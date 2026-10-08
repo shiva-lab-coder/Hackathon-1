@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Hackathon2
+public class Hackathon1Q2
 {
     public static void main(String []args)
     {
