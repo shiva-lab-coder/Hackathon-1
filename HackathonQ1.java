@@ -1,5 +1,5 @@
 
-public class Hackathon1
+public class Hackathon1Q1
 {
     public static void main(String[] args)
     {
