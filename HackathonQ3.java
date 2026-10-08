@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hackathon3
+public class Hackathon1Q3
 {
 
     public static double Add(double morningenergy, double eveningenergy) 
